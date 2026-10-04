@@ -14,13 +14,13 @@
 
 Hey, I’m **Void**. I like turning ideas into things you can actually use, from chat apps and bots to AI and automation experiments. I’m always learning, building, and improving.
 
-## Things I’m building
+## What I’m into
 
-| Project | What it is |
-| --- | --- |
-| [RetroCord](https://github.com/Void-Xpert/retrocord) | A community chat app experiment inspired by the best parts of online hangouts. |
-| [Aeris](https://github.com/Void-Xpert/aeris-vercel-link) | AI and web experiments, built one feature at a time. |
-| [More projects](https://github.com/Void-Xpert?tab=repositories) | Bots, tools, prototypes, and whatever I’m curious about next. |
+- Chat apps and online communities
+- AI, browser tools, and automation
+- Bots, interfaces, and creative prototypes
+
+Take a look at my [public repositories](https://github.com/Void-Xpert?tab=repositories) for the projects I can share.
 
 ## Find me
 
