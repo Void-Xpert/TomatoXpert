@@ -1,6 +1,6 @@
 <div align="center">
 
-# VOID-XPERT
+# VOID
 
 ### Building bots, web apps & creative experiments
 
